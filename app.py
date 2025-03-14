@@ -3,6 +3,13 @@ from flask import Flask, request, render_template
 from flask_bootstrap import Bootstrap
 import pickle
 import app_utilities
+import nltk
+import numpy as np  # Add this import statement
+
+# Download NLTK stopwords, punkt, and wordnet if not already downloaded
+nltk.download('stopwords')
+nltk.download('punkt')
+nltk.download('wordnet')
 
 app = Flask(__name__)
 Bootstrap(app)
