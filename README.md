@@ -1,10 +1,7 @@
-![](https://img.shields.io/github/license/miladrezazadeh/twitter_depression_detection?style=flat-square)
-![](https://img.shields.io/github/repo-size/miladrezazadeh/twitter_depression_detection)
 
 # Twitter Depression Detection
 
 <div class="verticalcenter">
-<img src = "https://github.com/miladrezazadeh/twitter_depression_detection/blob/main/img/app.png?raw=true" align="middle"> 
 </div>
 
 ## Table of Contents
